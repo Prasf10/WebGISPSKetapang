@@ -27,7 +27,7 @@
         </nav><!-- .navbar -->
 
     </div>
-</header><!-- End Header -->
+</header><!-- End Headers -->
 @endsection
 
 @section('content')
